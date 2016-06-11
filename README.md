@@ -1,2 +1,3 @@
 # NewJava
-repositorio de prueba
+. repositorio de prueba
+. pronto empezaremos con el curso de Java
